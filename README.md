@@ -16,10 +16,10 @@ An **interactive Card Carousel** built with **Expo** and **React Native**, showc
 
 3. **Tap to Expand**:
    - Tap on a card to expand it into a detailed view.
-   - Animations include zoom-in, fade-in, and slide-up transitions.
+   - Animations include fade-in and slide-up transitions.
 
 4. **Close with Transition**:
-   - Close the expanded card with a smooth zoom-out, fade-out, and slide-down animation.
+   - Close the expanded card with a smooth fade-out, and slide-down animation.
 
 5. **Dynamic Animations**:
    - Powered by **React Native Reanimated** for high-performance animations.
