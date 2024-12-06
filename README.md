@@ -38,8 +38,8 @@ An **interactive Card Carousel** built with **Expo** and **React Native**, showc
 
 ## Screenshots 📸
 
-![Carousel View on Android Platform](https://github.com/mnuzulia/Carousel-Card/tree/main/demo/carousel-card-android.gif)
-![Carousel View on IOS Platform](https://github.com/mnuzulia/Carousel-Card/tree/main/demo/carousel-card-ios.gif)
+![Carousel View on Android Platform](demo/carousel-card-android.gif)
+![Carousel View on IOS Platform](demo/carousel-card-ios.gif)
 
 ---
 
